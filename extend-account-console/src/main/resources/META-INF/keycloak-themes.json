@@ -1,6 +1,6 @@
 {
   "themes": [{
-    "name" : "keycloak-man",
+    "name" : "codegym-theme",
     "types": [ "account" ]
   }]
 }

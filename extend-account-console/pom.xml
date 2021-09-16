@@ -36,6 +36,6 @@
     </dependencies>
 
     <build>
-        <finalName>keycloak-man-theme</finalName>
+        <finalName>codegym-keycloak-account-v2</finalName>
     </build>
 </project>

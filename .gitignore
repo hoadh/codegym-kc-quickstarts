@@ -60,3 +60,4 @@ target
 ###########
 node_modules
 /app-angular2/src/main/webapp/node
+.DS_Store
